@@ -1,0 +1,7 @@
+{
+  "case_description": "XYZ Tech Services delayed salary payments for 2 months for their IT employees. The company was profitable but claimed cash flow issues due to delayed client payments. 30 employees have approached labor court seeking immediate salary release plus interest. Company argues employees should wait for client payments to arrive.",
+  "legal_question": "Can an employer delay salary payments citing delayed receivables from clients? What is the liability under Payment of Wages Act when company has profits but temporary cash flow issues?",
+  "jurisdiction": "indian",
+  "max_rounds": 4,
+  "session_id": "salary_case_2"
+}

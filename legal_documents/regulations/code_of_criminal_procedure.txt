@@ -1,0 +1,139 @@
+CODE OF CRIMINAL PROCEDURE, 1973
+ACT NO. 2 OF 1974
+
+PREAMBLE
+
+An Act to provide for the Code of Criminal Procedure; Be it enacted by Parliament in the Twenty-fourth Year of the Republic of India as follows:
+
+CHAPTER I
+PRELIMINARY
+
+Section 1. Short title, extent and commencement
+(1) This Act may be called the Code of Criminal Procedure, 1973.
+(2) It extends to the whole of India except the State of Jammu and Kashmir.
+(3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.
+
+Section 2. Definitions
+In this Code, unless the context otherwise requires,—
+(a) "bailable offence" means an offence which is shown as bailable in the First Schedule, or which is made bailable by any other law for the time being in force; and "non-bailable offence" means any other offence;
+(b) "cognizable offence" means an offence for which, and "cognizable case" means a case in which, a police officer may, in accordance with the First Schedule or under any other law for the time being in force, arrest without warrant;
+(c) "complaint" means any allegation made orally or in writing to a Magistrate, with a view to his taking action under this Code, that some person, whether known or unknown, has committed an offence, but does not include a police report;
+(d) "inquiry" means every inquiry, other than a trial, conducted under this Code by a Magistrate or Court;
+(e) "investigation" includes all the proceedings under this Code for the collection of evidence conducted by a police officer or by any person (other than a Magistrate) who is authorized by a Magistrate in this behalf;
+(f) "judicial proceeding" includes any proceeding in the course of which evidence is or may be legally taken on oath;
+(g) "Magistrate" includes every person exercising all or any of the powers of a Magistrate under this Code;
+(h) "offence" means any act or omission made punishable by any law for the time being in force and includes any act in respect of which a complaint may be made under section 20 of the Cattle-trespass Act, 1871;
+(i) "place" includes a house, building, tent, vessel and vehicle;
+(j) "police report" means a report forwarded by a police officer to a Magistrate under sub-section (2) of section 173;
+(k) "summons-case" means a case relating to an offence, and not being a warrant-case;
+(l) "trial" means the proceeding under this Code before a Magistrate or Court for the purpose of determining whether an accused person has or has not committed an offence;
+(m) "warrant-case" means a case relating to an offence punishable with death, imprisonment for life or imprisonment for a term exceeding two years.
+
+CHAPTER II
+CONSTITUTION OF CRIMINAL COURTS AND OFFICES
+
+Section 6. Classes of Criminal Courts
+Besides the High Courts and the Courts constituted under any law, other than this Code, for the time being in force, there shall be, in every State, the following classes of Criminal Courts, namely:—
+(1) Courts of Session;
+(2) Judicial Magistrates of the first class and, in any district, such Judicial Magistrates of the second class as the State Government may think fit to appoint for such district;
+(3) Executive Magistrates.
+
+Section 9. Court of Session
+(1) The State Government shall establish, for every sessions division, a Court of Session with such jurisdiction as may be conferred by or under this Code.
+(2) The State Government may establish any additional Courts of Session or temporary Courts of Session for any sessions division as it thinks fit.
+
+CHAPTER IV
+MAINTENANCE OF WIVES, CHILDREN AND PARENTS
+
+Section 125. Order for maintenance of wives, children and parents
+(1) If any person having sufficient means neglects or refuses to maintain—
+(a) his wife, unable to maintain herself, or
+(b) his legitimate or illegitimate minor child, whether married or not, unable to maintain itself, or
+(c) his legitimate or illegitimate child (not being a married daughter) who has attained majority, where such child is, by reason of any physical or mental abnormality or injury unable to maintain itself, or
+(d) his father or mother, unable to maintain himself or herself,
+a Magistrate of the first class may, upon proof of such neglect or refusal, order such person to make a monthly allowance for the maintenance of his wife or such child, father or mother, at such monthly rate not exceeding five thousand rupees in the aggregate, as such Magistrate thinks fit, and to pay the same to such person as the Magistrate may from time to time direct.
+
+CHAPTER V
+PROCEEDINGS IN PROSECUTIONS
+
+Section 154. Information in cognizable cases
+(1) Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer in such form as the State Government may prescribe in this behalf.
+(2) A copy of the information as recorded under sub-section (1) shall be given forthwith, free of cost, to the informant.
+(3) Any person aggrieved by a refusal on the part of an officer in charge of a police station to record the information referred to in sub-section (1) may send the substance of such information, in writing and by post, to the Superintendent of Police concerned who, if satisfied that such information discloses the commission of a cognizable offence, shall either investigate the case himself or direct an investigation to be made by any police officer subordinate to him, in which case, the provisions of this Code shall apply as if the case has been reported to the officer in charge of the police station within the local limits of whose jurisdiction the offence was committed.
+
+Section 156. Police officer's power to investigate cognizable case
+(1) Any officer in charge of a police station may, without the order of a Magistrate, investigate any cognizable case which a court having jurisdiction over the local area within the limits of such station would have power to inquire into or try under the provisions of Chapter XIII.
+(2) No proceeding of a police officer in any such case shall at any stage be called in question on the ground that the case was one which such officer was not empowered under this section to investigate.
+(3) Nothing in this section shall be deemed to prevent the exercise by any Magistrate of the powers conferred on Magistrates by or under this Code.
+
+Section 160. Power to require attendance of witnesses
+(1) Any police officer making an investigation under this Chapter may, by order in writing, require the attendance before himself of any person being within the limits of such officer's own or any adjoining police station who, from information received or otherwise, appears to be acquainted with the facts and circumstances of the case; and such person shall attend as so required.
+
+Section 161. Examination of witnesses by police
+(1) Any police officer making an investigation under this Chapter, or any police officer not below such rank as the State Government may, by general or special order, prescribe in this behalf, acting on the requisition of such officer, may examine orally any person supposed to be acquainted with the facts and circumstances of the case.
+(2) Such person shall be bound to answer truly all questions relating to such case put to him by such officer, other than questions the answers to which would have a tendency to expose him to a criminal charge or to a penalty or forfeiture.
+(3) The police officer may reduce into writing any statement made to him in the course of an examination under this section; and if he does so, he shall make a separate and true record of the statement of each such person whose statement he records.
+
+Section 164. Recording of confessions and statements
+(1) Any Metropolitan Magistrate or Judicial Magistrate may, whether or not he has jurisdiction in the case, record any confession or statement made to him in the course of an investigation under this Chapter or under any other law for the time being in force, or at any time afterwards before the commencement of the inquiry or trial.
+
+CHAPTER VI
+PROCESSES TO COMPEL APPEARANCE
+
+Section 70. Form of summons
+Every summons issued by a Court under this Code shall be in writing, in duplicate, signed by the presiding officer of such Court or by such other officer as the High Court may, from time to time, by rule, direct, and shall bear the seal of the Court.
+
+Section 71. Service of summons
+(1) Every summons shall be served by a police officer, or, subject to such rules as the State Government may make in this behalf, by an officer of the Court issuing it or other public servant.
+(2) The summons shall, if practicable, be served personally on the person summoned, by delivering or tendering to him one of the duplicates of the summons.
+
+Section 82. Proclamation for person absconding
+(1) If any Court has reason to believe (whether after taking evidence or not) that any person against whom a warrant has been issued by it has absconded or is concealing himself so that such warrant cannot be executed, such Court may publish a written proclamation requiring him to appear at a specified place and at a specified time not less than thirty days from the date of publishing such proclamation.
+
+CHAPTER VII
+PROCESSES TO COMPEL THE PRODUCTION OF THINGS
+
+Section 91. Summons to produce document or other thing
+(1) Whenever any Court or any officer in charge of a police station considers that the production of any document or other thing is necessary or desirable for the purposes of any investigation, inquiry, trial or other proceeding under this Code, such Court may issue a summons, or such officer a written order, to the person in whose possession or power such document or thing is believed to be, requiring him to attend and produce it, or to produce it, at the time and place specified in the summons or order.
+
+Section 93. Search for document or thing
+When any Court has reason to believe that a person to whom a summons or order under section 91 or section 92 has been, or might be, addressed, will not or would not produce the document or thing as directed by such summons or order, or when such document or thing is not known to the Court to be in the possession of any person, the Court may issue a search-warrant, and the person to whom such warrant is directed may search for such document or thing in any place in which it may be.
+
+CHAPTER VIII
+SECURITY FOR KEEPING THE PEACE AND FOR GOOD BEHAVIOUR
+
+Section 107. Security for keeping the peace
+When an Executive Magistrate receives information that any person is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act that may probably occasion a breach of the peace or disturb the public tranquillity and is of opinion that there are sufficient grounds for proceeding, he may, in the manner hereinafter provided, require such person to show cause why he should not be ordered to execute a bond, with or without sureties, for keeping the peace for such period, not exceeding one year, as the Magistrate thinks fit.
+
+CHAPTER IX
+ORDER FOR MAINTENANCE OF WIVES, CHILDREN AND PARENTS
+
+Section 125. Order for maintenance of wives, children and parents
+(1) If any person having sufficient means neglects or refuses to maintain—
+(a) his wife, unable to maintain herself, or
+(b) his legitimate or illegitimate minor child, whether married or not, unable to maintain itself, or
+(c) his legitimate or illegitimate child (not being a married daughter) who has attained majority, where such child is, by reason of any physical or mental abnormality or injury unable to maintain itself, or
+(d) his father or mother, unable to maintain himself or herself,
+a Magistrate of the first class may, upon proof of such neglect or refusal, order such person to make a monthly allowance for the maintenance of his wife or such child, father or mother, at such monthly rate not exceeding ten thousand rupees in the aggregate, as such Magistrate thinks fit, and to pay the same to such person as the Magistrate may from time to time direct.
+
+CHAPTER XII
+INFORMATION TO THE POLICE AND THEIR POWERS TO INVESTIGATE
+
+Section 154. Information in cognizable cases
+(1) Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer in such form as the State Government may prescribe in this behalf.
+
+Section 173. Report of police officer on completion of investigation
+(1) Every investigation under this Chapter shall be completed without unnecessary delay.
+(2) (i) As soon as it is completed, the officer in charge of the police station shall forward to a Magistrate empowered to take cognizance of the offence on a police report, a report in the form prescribed by the State Government.
+
+CHAPTER XIII
+JURISDICTION OF THE CRIMINAL COURTS IN INQUIRIES AND TRIALS
+
+Section 177. Ordinary place of inquiry and trial
+Every offence shall ordinarily be inquired into and tried by a Court within whose local jurisdiction it was committed.
+
+Section 178. Place of inquiry or trial
+(a) When it is uncertain in which of several local areas an offence was committed, or
+(b) where an offence is committed partly in one local area and partly in another, or
+(c) where it consists of several acts done in different local areas,
+it may be inquired into or tried by a Court having jurisdiction over any of such local areas.

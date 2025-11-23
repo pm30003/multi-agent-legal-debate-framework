@@ -1,0 +1,7 @@
+{
+  "case_description": "PQR Textiles withheld salaries of 100 workers for 3 months after experiencing major losses due to machinery breakdown. The company promised to pay once insurance claim is settled. Workers claim they are facing hardship and need immediate payment. Company has offered 50% advance payment.",
+  "legal_question": "Is machinery breakdown and pending insurance claim a valid defense for withholding employee salaries? Can partial payment satisfy obligations under Payment of Wages Act?",
+  "jurisdiction": "indian",
+  "max_rounds": 4,
+  "session_id": "salary_case_3"
+}

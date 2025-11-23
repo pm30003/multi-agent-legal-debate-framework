@@ -1,0 +1,7 @@
+{
+  "case_description": "TechNova Pvt Ltd disclosed personal data of its employees, including salary details and medical history, on a shared company portal accessible to all staff. Several employees complained of violation of privacy and defamation due to unwarranted exposure of sensitive data without consent.",
+  "legal_question": "Does disclosure of employee personal data without consent constitute a violation under the Digital Personal Data Protection Act, 2023 and constitutional right to privacy?",
+  "jurisdiction": "indian",
+  "max_rounds": 4,
+  "session_id": "data_privacy_case_1"
+}

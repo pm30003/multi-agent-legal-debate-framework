@@ -1,0 +1,155 @@
+SECURITIES AND EXCHANGE BOARD OF INDIA (SEBI) REGULATIONS
+
+SEBI (LISTING OBLIGATIONS AND DISCLOSURE REQUIREMENTS) REGULATIONS, 2015
+
+PREAMBLE
+
+In exercise of the powers conferred by section 30 of the Securities and Exchange Board of India Act, 1992 (15 of 1992), read with sub-section (1) of section 11A of the Securities Contracts (Regulation) Act, 1956 (42 of 1956), the Board hereby makes the following regulations, namely:-
+
+CHAPTER I
+PRELIMINARY
+
+Regulation 1. Short title and commencement
+(1) These regulations may be called the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+(2) These regulations shall come into force on the 1st day of December, 2015.
+
+Regulation 2. Definitions
+(1) In these regulations, unless the context otherwise requires,-
+(a) "Act" means the Securities Contracts (Regulation) Act, 1956 (42 of 1956);
+(b) "Board" means the Securities and Exchange Board of India established under sub-section (1) of section 3 of the Securities and Exchange Board of India Act, 1992 (15 of 1992);
+(c) "listed entity" means an entity whose securities are listed on a recognised stock exchange;
+(d) "market capitalisation" means the market value of the total issued shares of the listed entity as per the closing price on the recognised stock exchange on which it has the highest trading volume;
+(e) "material subsidiary" means a subsidiary, whose income or net worth exceeds ten percent of the consolidated income or net worth respectively, of the listed entity and its subsidiaries in the immediately preceding accounting year;
+(f) "promoter" and "promoter group" shall have the same meaning as defined in the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018;
+(g) "related party" means a related party as defined under the applicable accounting standards;
+(h) "senior management" means officers/personnel of the listed entity who are members of its core management team excluding board of directors and normally this shall comprise all members of management one level below the chief executive officer/managing director/whole time director/manager (including chief executive officer/manager, in case they are not part of the board) and shall specifically include company secretary and chief financial officer.
+
+CHAPTER II
+LISTING AGREEMENT
+
+Regulation 3. Listing agreement
+(1) Every applicant seeking listing of securities on a recognised stock exchange shall execute a listing agreement with such recognised stock exchange in the format specified in Schedule A.
+(2) The listing agreement shall be executed in addition to compliance with all the conditions subject to which the permission to deal in securities on the recognised stock exchange is granted.
+
+CHAPTER III
+BOARD OF DIRECTORS AND COMMITTEES
+
+Regulation 15. Composition of board of directors
+(1) The board of directors of every listed entity shall have an optimum combination of executive and non-executive directors with at least one woman director and not less than fifty percent of the board of directors comprising non-executive directors.
+(2) Where the chairman of the board is a non-executive director, at least one-third of the board of directors shall be independent directors and where the listed entity does not have a regular non-executive chairman, at least half of the board of directors shall be independent directors.
+
+Regulation 16. Independent directors
+(1) An independent director means a director other than a managing director, whole-time director or a nominee director,—
+(a) who, in the opinion of the board, is a person of integrity and possesses relevant expertise and experience;
+(b) who is or was not a promoter of the listed entity or its holding, subsidiary or associate company;
+(c) who is not related to promoters or directors in the listed entity, its holding, subsidiary or associate company;
+(d) who has or had no pecuniary relationship with the listed entity, its holding, subsidiary or associate company, or their promoters, or directors, during the two immediately preceding financial years or during the current financial year;
+(e) none of whose relatives has or had pecuniary relationship or transaction with the listed entity, its holding, subsidiary or associate company, or their promoters, or directors, amounting to two percent or more of its gross turnover or total income or fifty lakh rupees or such higher amount as may be prescribed, whichever is lower, during the two immediately preceding financial years or during the current financial year.
+
+Regulation 18. Audit committee
+(1) Listed entity shall constitute an audit committee and such committee shall consist of a minimum of three directors with independent directors forming a majority.
+(2) The chairperson of audit committee shall be an independent director.
+(3) All members of audit committee shall be financially literate and at least one member shall have accounting or related financial management expertise.
+
+CHAPTER IV
+MEETINGS OF BOARD OF DIRECTORS
+
+Regulation 19. Meetings of board of directors
+(1) The board of directors of every listed entity shall meet at least four times a year, with a maximum gap of one hundred and twenty days between any two meetings.
+(2) The participation of directors by video conferencing or other audio visual means shall be counted for the purpose of quorum under this regulation.
+
+CHAPTER V
+RELATED PARTY TRANSACTIONS
+
+Regulation 23. Related party transactions
+(1) All related party transactions shall require prior approval of the audit committee.
+(2) All material related party transactions shall require approval of the shareholders through resolution and the related parties shall not vote to approve such resolutions whether the entity is a related party to the particular transaction or not.
+(3) A transaction with a related party shall be considered material if the transaction / transactions to be entered into individually or taken together with previous transactions during a financial year, exceeds ten percent of the annual consolidated turnover of the listed entity as per the last audited financial statements of the listed entity.
+
+CHAPTER VI
+DISCLOSURE REQUIREMENTS
+
+Regulation 29. Disclosure of events or information
+The listed entity shall first disclose to stock exchange(s) of all events, changes or information as specified in Part A of Schedule III as soon as reasonably possible but not later than twenty four hours from the occurrence of the event or information:
+
+Part A of Schedule III includes:
+1. Acquisition(s) (including agreement to acquire)
+2. Scheme of arrangement (amalgamation/ merger/ demerger/ restructuring), or any corporate restructuring
+3. Expansion of business or new business
+4. Disposal, dissolution, disinvestment, spin-off or closure of business units/subsidiary
+5. Changes in the general character or nature of business brought about by arrangements for strategic, technical, manufacturing, or marketing tie-up, adoption of new lines of business or closure of operations of any business unit/facility etc.
+6. Capacity addition or product launch
+7. Award, bagging/ receiving, amendment or termination of material contracts/agreements
+8. Sale or disposal of major assets
+9. Any other events/information which has bearing on the performance/operations of the entity
+10. Events such as disruption of operations of any one or more units or divisions of the listed entity due to natural calamity, strike, lock outs etc.
+
+Regulation 30. Disclosure of events or information
+(1) The listed entity shall disclose on the stock exchange the following events or information, as soon as reasonably possible but not later than twenty four hours from the occurrence of event or information:
+(a) commencement or any postponement in the date of commencement of commercial production or commercial operations of any unit/division;
+(b) change in the general character or nature of business brought about by arrangements for strategic, technical, manufacturing, or marketing tie-up, adoption of new lines of business or closure of operations of any business unit/facility etc.;
+(c) capacity addition or product launch;
+(d) awarding, bagging/ receiving, amendment or termination of material contracts/agreements (viz. loan agreement, supply agreement, purchase agreement, sale agreement, service agreement, franchise, brand endorsement, licensing agreement, distribution agreement, recasting/ restructuring of loan, customer/supplier agreements having tenure of 3 years or more, agreements (non-exclusive), licensing agreements/contracts, other agreements/contracts having revenue/expenditure implications, agreements/contracts relating to recruitment of key managerial personnel, any other material agreements, contracts, arrangements) whether with related parties or otherwise, and contracts/agreements that are entered into by subsidiary companies which are material for the listed entity.
+
+Regulation 31. Disclosure of shareholding pattern
+(1) Every listed entity shall file with the recognised stock exchange within twenty one days of the end of each quarter, a statement showing the pattern of shareholding in the format specified by the Board from time to time.
+
+CHAPTER VII
+FINANCIAL RESULTS
+
+Regulation 33. Financial results
+(1) The listed entity shall submit to the stock exchange within forty five days of the end of each quarter other than the last quarter and within sixty days of the end of the last quarter, the financial results in the formats specified.
+(2) The financial results shall be published in at least one English daily newspaper having wide circulation and in one daily newspaper having wide circulation published in the language of the region where the registered office of the listed entity is situated.
+
+CHAPTER VIII
+ANNUAL REPORT
+
+Regulation 34. Annual report
+(1) The listed entity shall prepare and dispatch annual report to its shareholders in the manner specified in the Companies Act, 2013 and rules made thereunder.
+(2) The annual report shall contain, inter alia, the following additional information:
+(a) details relating to composition and category of directors;
+(b) number of meetings of the board of directors and committees thereof;
+(c) remuneration of directors;
+(d) details of establishment of vigil mechanism, whistle blower policy and affirmation that no personnel have been denied access to the audit committee;
+(e) details of compliance with mandatory requirements and adoption of the non-mandatory requirements;
+(f) details of material subsidiaries of the listed entity;
+(g) disclosure of commodity price risks and commodity hedging activities.
+
+CHAPTER IX
+CORPORATE GOVERNANCE
+
+Regulation 35. Report on corporate governance
+Every listed entity shall include a separate section on corporate governance in its annual report, with a detailed compliance report on corporate governance in the format as specified by the Board from time to time.
+
+CHAPTER X
+GENERAL OBLIGATIONS
+
+Regulation 45. General obligations of listed entity
+The listed entity shall:
+(a) comply with the provisions of listing agreement;
+(b) pay annual listing fees and other charges to the recognised stock exchange as prescribed from time to time;
+(c) submit such returns, information, reports, documents to the recognised stock exchange as may be stipulated by the recognised stock exchange from time to time;
+(d) ensure that its transfer agent, registrar or any other intermediary are registered with the Board and such agreements executed with them include specific clause for adherence to the turnaround time for transfer of securities as prescribed by the Board from time to time;
+(e) publish notices, advertisements and statutory information in the manner prescribed under these regulations;
+(f) inform the recognised stock exchange about board meetings;
+(g) make disclosures and compliances as specified under the provisions of these regulations.
+
+CHAPTER XI
+APPLICABILITY
+
+Regulation 46. Applicability
+(1) The provisions of these regulations shall apply to:
+(a) entities whose securities are listed on a recognised stock exchange;
+(b) entities which are in the process of getting their securities listed on a recognised stock exchange.
+(2) The provisions relating to corporate governance shall apply to listed entities having paid up equity share capital exceeding rupees ten crores and net worth exceeding rupees twenty five crores, as on the last day of the previous financial year.
+
+CHAPTER XII
+PENALTIES
+
+Regulation 58. Penalty for non-compliance
+(1) Without prejudice to action under the Act, SEBI Act, 1992 or any other law for the time being in force, if a listed entity fails to comply with any of the provisions of these regulations, it shall be liable to penalty as prescribed under regulation 59.
+
+Regulation 59. Penalty
+For any violation of the provisions of these regulations, the recognised stock exchange shall levy fines/penalty as may be prescribed by the recognised stock exchange from time to time and approved by the Board:
+Provided that the quantum of penalty shall not exceed rupees one crore per violation:
+Provided further that in case of continuing failure, there may be additional penalty which may extend to rupees five lakh per day after the first day for such continuing failure, subject to a maximum of rupees five crores.

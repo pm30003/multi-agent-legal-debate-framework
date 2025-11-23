@@ -1,0 +1,7 @@
+{
+  "case_description": "ABC Manufacturing Company withheld salaries of 50 employees for 4 months citing financial losses during COVID-19 pandemic. Employees filed a complaint under Payment of Wages Act, 1936. Company claims force majeure and argues the delay was beyond their control due to lockdown restrictions and supply chain disruptions.",
+  "legal_question": "Are employees entitled to full salary payment and compensation when employer withholds wages due to pandemic-related financial difficulties? What remedies are available under Payment of Wages Act, 1936?",
+  "jurisdiction": "indian",
+  "max_rounds": 4,
+  "session_id": "salary_case_1"
+}

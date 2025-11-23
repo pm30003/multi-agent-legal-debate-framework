@@ -1,0 +1,7 @@
+{
+  "case_description": "Mr. Arjun lost ₹1.5 lakh through an online fraud where cybercriminals accessed his account via phishing link. The bank denied refund, citing customer negligence. Mr. Arjun argues that the bank failed to provide adequate cyber safeguards as mandated by RBI’s cybersecurity directives.",
+  "legal_question": "When can a bank be held liable for online fraud under RBI cybersecurity guidelines and Information Technology Act, 2000? What constitutes 'customer negligence' in digital transaction disputes?",
+  "jurisdiction": "indian",
+  "max_rounds": 4,
+  "session_id": "cyber_case_1"
+}

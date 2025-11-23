@@ -1,0 +1,7 @@
+{
+  "case_description": "A journalist published an investigative article alleging corruption in procurement by a public official. The official filed a criminal defamation case under Section 499 IPC. The journalist claims protection under Article 19(1)(a) of the Constitution and argues that the publication was in public interest.",
+  "legal_question": "How is balance maintained between the right to free speech and criminal defamation under Indian law, and what defences are available to journalists under Section 499 IPC?",
+  "jurisdiction": "indian",
+  "max_rounds": 5,
+  "session_id": "defamation_case_1"
+}

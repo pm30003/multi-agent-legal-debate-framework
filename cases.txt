@@ -1,0 +1,48 @@
+{
+  "case_description": "Employee was terminated without notice or severance pay",
+  "legal_question": "What remedies does an employee have under the Industrial Disputes Act?",
+  "jurisdiction": "indian",
+  "max_rounds": 6,
+  "session_id": "session_002"
+}
+
+
+{
+  "case_description": "Tenant evicted without due process despite valid rent payments",
+  "legal_question": "What protections are available to tenants under the Rent Control Act?",
+  "jurisdiction": "indian",
+  "max_rounds": 6,
+  "session_id": "session_003"
+}
+
+{
+  "case_description": "Builder delayed possession of apartment by 2 years without compensation",
+  "legal_question": "What remedies are available under RERA for delay in possession?",
+  "jurisdiction": "indian",
+  "max_rounds": 6,
+  "session_id": "session_004"
+}
+
+{
+  "case_description": "Consumer received a defective laptop and the seller refused replacement",
+  "legal_question": "What remedies can be sought under the Consumer Protection Act?",
+  "jurisdiction": "indian",
+  "max_rounds": 6,
+  "session_id": "session_005"
+}
+
+{
+  "case_description": "Employer did not contribute to provident fund despite salary deductions",
+  "legal_question": "What legal recourse do employees have under the EPF Act?",
+  "jurisdiction": "indian",
+  "max_rounds": 6,
+  "session_id": "session_006"
+}
+
+{
+  "case_description": "Company disclosed employee's personal data without consent",
+  "legal_question": "What remedies are available under the Digital Personal Data Protection Act, 2023?",
+  "jurisdiction": "indian",
+  "max_rounds": 6,
+  "session_id": "session_007"
+}
