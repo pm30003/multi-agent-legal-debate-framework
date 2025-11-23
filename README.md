@@ -1,4 +1,4 @@
-# AI-Powered Legal Judgment Framework
+# STRUCTURED MULTI AGENT DEBATE FRAMEWORK
 
 ## ABSTRACT
 
