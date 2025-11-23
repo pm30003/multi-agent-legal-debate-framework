@@ -14,7 +14,7 @@ Keywords: Legal AI, Multi-Agent Systems, Retrieval Augmented Generation, Legal J
 
 ## Step 1: Setup Groq API Key
 
-Create a `.env` file in the `legal-judgment-framework` folder:
+Create a `.env` file in the `multi-agent-legal-judgment-framework` folder:
 
 ```cmd
 echo GROQ_API_KEY=your_api_key_here > .env
@@ -25,7 +25,7 @@ echo GROQ_API_KEY=your_api_key_here > .env
 ## Step 2: Install Dependencies
 
 ```cmd
-cd legal-judgment-framework
+cd multi-agent-legal-judgment-framework
 pip install -r requirements.txt
 pip install langchain-groq
 pip install langchain langchain-core langchain-community  
@@ -46,7 +46,7 @@ python setup_legal_documents.py
 ### Terminal 1: Start the Server
 
 ```cmd
-cd legal-judgment-framework
+cd multi-agent-legal-judgment-framework
 python main.py
 ```
 
@@ -62,13 +62,13 @@ Open a **NEW** Command Prompt window:
 
 **Option 1: Show output in terminal**
 ```cmd
-cd legal-judgment-framework
+cd multi-agent-legal-judgment-framework
 python debate_cli.py input.json
 ```
 
 **Option 2: Save to text file**
 ```cmd
-cd legal-judgment-framework
+cd multi-agent-legal-judgment-framework
 python debate_cli_ultra_raw.py input.json
 ```
 This creates a separate `.txt` file with all debate rounds.
@@ -86,7 +86,7 @@ In Terminal 1, press: `Ctrl + C`
 ## Troubleshooting
 
 **Error: "GROQ_API_KEY not found"**
-- Check `.env` file exists in `legal-judgment-framework` folder
+- Check `.env` file exists in `multi-agent-legal-judgment-framework` folder
 - Make sure it contains: `GROQ_API_KEY=gsk_xxxxx...`
 
 **Error: "Module not found"**
@@ -105,13 +105,13 @@ In Terminal 1, press: `Ctrl + C`
 
 **Terminal 1:** 
 ```cmd
-cd legal-judgment-framework
+cd multi-agent-legal-judgment-framework
 python main.py
 ```
 
 **Terminal 2:** 
 ```cmd
-cd legal-judgment-framework
+cd multi-agent-legal-judgment-framework
 python debate_cli.py input.json
 ```
 OR
